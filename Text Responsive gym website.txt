@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-BEROTOT
+GymKhana
 
 .nav__link
 Home
@@ -157,7 +157,7 @@ Calculate Now
 
 ========== FOOTER ==========
 .footer__logo
-BEROTOT
+Gymkhana
 
 .footer__description
 Subscribe for company <br> updates below.
@@ -189,7 +189,7 @@ https://twitter.com/
 https://www.instagram.com/
 
 .footer__copy
-&#169; Copyright Bedimcode. All rights reserved
+&#169; Copyright GymKhana. All rights reserved
 
 
 * FOOTER EMAIL JS *
